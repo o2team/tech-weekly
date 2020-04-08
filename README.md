@@ -1,4 +1,4 @@
-# O2 Tech Weekly
+# JELLY Tech Weekly
 
 > 沧海拾遗，积跬步以至千里
 
